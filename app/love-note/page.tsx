@@ -15,35 +15,35 @@ export default function LoveNote() {
                     </p>
 
                     <p className="text-center">
-                        Do you remember our 2nd year of BE? That's when you came into my life,<br />
+                        Do you remember our 2nd year of BE? That&#39;s when you came into my life,<br />
                         and everything changed. Your smile, your laugh, the way you light up<br />
                         when you see gulab jamun... 🍮 These little things make you so special to me.
                     </p>
 
                     <p className="text-center">
-                        I know life hasn't been easy since I moved to Ahmedabad in 7th sem.<br />
-                        The distance brought challenges, and we've had our share of quarrels.<br />
-                        I know I'm not the perfect boyfriend, and I've made mistakes along the way.
+                        I know life hasn&#39;t been easy since I moved to Ahmedabad in 7th sem.<br />
+                        The distance brought challenges, and we&#39;ve had our share of quarrels.<br />
+                        I know I&#39;m not the perfect boyfriend, and I&#39;ve made mistakes along the way.
                     </p>
 
                     <p className="text-center font-semibold text-pink-700 text-xl my-6">
-                        💕 But here's what I know for sure... 💕<br />
+                        💕 But here&#39;s what I know for sure... 💕<br />
                         I love watching you sleep peacefully,<br />
                         I love your excitement for sweet things,<br />
                         And I love YOU, with all my heart.
                     </p>
 
                     <p className="text-center">
-                        I'm proposing to you again because I want you to know that<br />
-                        despite all the ups and downs, you're the one I choose.<br />
+                        I&#39;m proposing to you again because I want you to know that<br />
+                        despite all the ups and downs, you&#39;re the one I choose.<br />
                         Every single day. I promise to try my best, to be better,<br />
                         and to make you feel as special as you truly are.
                     </p>
 
                     <p className="text-center font-semibold text-pink-600 text-lg my-4">
                         This website is my way of saying:<br />
-                        Let's start fresh. Let's make new memories.<br />
-                        Let's build something beautiful together. 🌟
+                        Let&#39;s start fresh. Let&#39;s make new memories.<br />
+                        Let&#39;s build something beautiful together. 🌟
                     </p>
 
                     <p className="text-center italic text-pink-600 font-semibold text-xl mt-8">

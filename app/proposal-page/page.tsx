@@ -31,7 +31,7 @@ export default function ProposalPage() {
 
             <div className="z-10 bg-white bg-opacity-90 p-10 rounded-3xl shadow-2xl">
                 <h1 className="text-5xl font-bold text-pink-700 mb-4 text-center animate-pulse">Purva, will you give us another chance? 💖</h1>
-                <p className="text-center text-pink-600 mb-2 text-lg">I know I'm not perfect, but I promise to try my best...</p>
+                <p className="text-center text-pink-600 mb-2 text-lg">I know I&#39;m not perfect, but I promise to try my best...</p>
                 <p className="text-center text-pink-500 mb-8 text-md">Will you be mine again? 🥺</p>
 
                 <div className="relative h-40 w-full flex items-center justify-center">
@@ -54,11 +54,11 @@ export default function ProposalPage() {
                 </div>
 
                 <p className="mt-8 text-lg text-pink-600 text-center font-semibold animate-pulse">
-                    Hint: The "No" button is as elusive as you when I try to wake you up! �💤
+                    Hint: The &quot;No&quot; button is as elusive as you when I try to wake you up! &#39;💤
                 </p>
                 <div className="mt-6 text-center">
                     <a href="/love-note" className="text-pink-700 underline hover:text-pink-500 text-lg transition-colors">
-                        📝 Read my heart out (I promise it's sweeter than gulab jamun 🍮)
+                        📝 Read my heart out (I promise it&#39;s sweeter than gulab jamun 🍮)
                     </a>
                 </div>
             </div>

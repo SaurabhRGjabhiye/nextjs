@@ -29,7 +29,7 @@ export default function Celebration() {
                 </h2>
 
                 <p className="text-2xl text-gray-700 mb-8 leading-relaxed">
-                    You've just made me the happiest person in the world! 💕
+                    You&#39;ve just made me the happiest person in the world! 💕
                     <br />
                     <br />
                     I promise to be better, to make fewer mistakes,<br />
@@ -38,10 +38,10 @@ export default function Celebration() {
                 </p>
 
                 <div className="space-y-4 text-xl text-pink-600 font-semibold mb-8">
-                    <p>� I'll get you all the gulab jamun you want</p>
-                    <p>� I'll let you sleep in peace (sometimes! 😄)</p>
-                    <p>✨ I'll make every day special for you</p>
-                    <p>❤️ I'll love you from Ahmedabad and everywhere</p>
+                    <p>🍮 I&#39;ll get you all the gulab jamun you want</p>
+                    <p>😴 I&#39;ll let you sleep in peace (sometimes! 😄)</p>
+                    <p>✨ I&#39;ll make every day special for you</p>
+                    <p>❤️ I&#39;ll love you from Ahmedabad and everywhere</p>
                 </div>
 
                 <div className="mt-10">

@@ -16,12 +16,12 @@ export default function Home() {
         </p>
 
         <p className="text-xl text-pink-600 mb-8 max-w-lg mx-auto text-center">
-          I know things got tough when I moved to Ahmedabad,
-          <br />
-          but you're still the one who makes my heart skip a beat.
-          <br />
-          <br />
-          I've made something special for you... 🍮✨
+           I know things got tough when I moved to Ahmedabad,
+           <br />
+           but you&#39;re still the one who makes my heart skip a beat.
+           <br />
+           <br />
+           I&#39;ve made something special for you... 🍮✨
         </p>
 
         <Link href="/proposal-page">
